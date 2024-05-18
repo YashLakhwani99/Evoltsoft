@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981400631776",
+    "project_id": "evoltsoft",
+    "storage_bucket": "evoltsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981400631776:android:4f2b00cc67894afddd9385",
+        "android_client_info": {
+          "package_name": "com.example.evoltsoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TUEXi9BhBBcckfZ5kAio9SkldShytVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

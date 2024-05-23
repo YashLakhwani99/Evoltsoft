@@ -222,7 +222,11 @@ class StationPage extends StatelessWidget {
                           ),
                         ),
                       ),
-                      const SizedBox(width: 10),
+                    ],
+                  ),
+                  const SizedBox(height: 20),
+                  Row(
+                    children: [
                       Icon(
                         Icons.star_rate_rounded,
                         size: 29,
@@ -238,7 +242,9 @@ class StationPage extends StatelessWidget {
                       ),
                     ],
                   ),
-                  const SizedBox(height: 20),
+                  const SizedBox(
+                    height: 20,
+                  ),
                   Text(
                     "\$${serviceFee.toDouble()}/kW",
                     style: const TextStyle(
